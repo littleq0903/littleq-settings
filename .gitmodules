@@ -1,0 +1,6 @@
+[submodule "littleq-zshrc"]
+	path = littleq-zshrc
+	url = https://github.com/littleq0903/littleq-zshrc
+[submodule "littleq-vimrc"]
+	path = littleq-vimrc
+	url = git@github.com:littleq0903/littleq-vimrc.git
