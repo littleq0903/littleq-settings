@@ -5,3 +5,6 @@
 [submodule "littleq-vimrc"]
 	path = littleq-vimrc
 	url = git@github.com:littleq0903/littleq-vimrc.git
+[submodule "littleq-tmux"]
+	path = littleq-tmux
+	url = git@github.com:littleq0903/littleq-tmux.git
